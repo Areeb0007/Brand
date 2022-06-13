@@ -1,4 +1,4 @@
-# Hacker
+# Brand
 
 #COMMAND
 git clone https://github.com/Areeb0007/Brand.git
