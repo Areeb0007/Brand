@@ -1,7 +1,7 @@
 # Hacker
 
 #COMMAND
-git clone https://github.com/Areeb0007/Hacker.git
+git clone https://github.com/Areeb0007/Termux.git
 cd hacker
 python3 Areeb.py
 
