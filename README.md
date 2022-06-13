@@ -1,7 +1,7 @@
-# RED HAT HACKER
+# Hacker
 
 #COMMAND
-git clone https://github.com/Areeb0007/Termux.git
+git clone https://github.com/Areeb0007/Redhathacker.git
 cd hacker
 python3 Areeb.py
 
